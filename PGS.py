@@ -89,9 +89,3 @@ if __name__ == "__main__":
             representation.append(int(coeff))
         print(f"Decomposing {representation} in {pointgroup}")
         print(tables[pointgroup].decompose(representation))
-    
-    #tables["D4h"].decompose([4, 0, 0, 2, 0, 0, 0, 4, 2, 0])
-    #tables["Td"].decompose([4, 1, 0, 0, 2])
-    #tables["D3h"].decompose([5, 2, 1, 3, 0, 3])
-    #tables["C4v"].decompose([5, 1, 1, 3, 1])
-    #tables["C3v"].decompose([12,0,2])
