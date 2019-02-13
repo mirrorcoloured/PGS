@@ -1,5 +1,6 @@
 # PGS
 Point group symmetry decomposer
+
 Example use:
 ./PGS.py Td 4,1,0,0,2
 ↳ A1 + T2
