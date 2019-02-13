@@ -1,5 +1,7 @@
 # PGS
-Point group symmetry decomposer
+Point Group Symmetry tool
+
+Built for Inorganic Chemistry (CHEM 4011 @ CU Boulder)
 
 
 ## Decomposition
@@ -25,6 +27,9 @@ E       [[ 2 -1  0]]    ['(x, y)', '(Rx, Ry)']  ['(x^2-y^2, xy)', '(xz, yz)']   
 
 
 # Future work
+* Use split-type matrices to print symmetry group information
+* Finish point group info
 * Add more point groups
 * Expand class functions
 * 3d plotting/animation
+* Point group detection from list of points
